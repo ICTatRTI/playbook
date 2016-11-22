@@ -12,10 +12,6 @@ Git is a command-line tool, but you can use graphical programs to work with Git 
 
 ## II. Adding
 
-### Do not use `git add -A` or `git add .`
-
-`git add -A` will add all outstanding changes to the _index_ or [_staging area_](https://git-scm.com/book/ch1-3.html#The-Three-States). `git add .` will do the same to all changes to files in the current directory or below. While it may take long to add files individually, you are much less likely to accidentally commit something you shouldn't by doing so.
-
 ### Consider using `git add --patch`
 
 `git add --patch` will show you all your changes that are not added one by one and ask you whether to add them or not. This is an excellent way to review your code before adding and committing it.
@@ -23,6 +19,10 @@ Git is a command-line tool, but you can use graphical programs to work with Git 
 Here's a screenshot of it in action:
 
 ![git add --patch in the terminal](img/git--add-patch.png)
+
+### Do not use `git add -A` or `git add .`
+
+`git add -A` will add all outstanding changes to the _index_ or [_staging area_](https://git-scm.com/book/ch1-3.html#The-Three-States). `git add .` will do the same to all changes to files in the current directory or below. While it may take long to add files individually, you are much less likely to accidentally commit something you shouldn't by doing so.
 
 ## III. Committing
 
@@ -96,7 +96,7 @@ The above is a necessity to do often. Other changes will get merged into master 
 git push origin my-new-feature
 ```
 
-When you're done with your branch, push it to origin. You can do this any time you want if you want feedback, but you'll want to do it one last time when you're ready to merge. 
+When you're done with your branch, push it to origin. You can do this any time you want if you want feedback, but you'll want to do it one last time when you're ready to merge.
 
 Finally, you want to make a pull request. When you push your branch the first time, GitLab will give you a URL to make your pull request. If you're pushing more than once, you'll have to go to your repo on GitLab to find the link to make a pull request.
 
