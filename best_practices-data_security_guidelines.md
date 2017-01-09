@@ -159,9 +159,9 @@ This may eventually be a separate SOP but for now we&#39;re including it here.
   - Review study protocol and specifically, the Data Security section (human subjects research studies only)
   - See Data Security Kickoff Example
 - --Review privacy certificate (DOJ studies only)
-- --Document your data security agreement with PI
+- --Document your data security agreement with PI*
   - In Email, and store electronically with other important project records
 - --Set up project code repository
   - NO DATA in code repositories, Slack or Trello
 
-Always initiate a conversation about data security and data storage with the Project Director before beginning work on projects that involve human subjects research, and obtain an email acknowledgement from the PD on the proposed plan (and update them if that data storage plan changes during the project).  **Keep the email stream for future reference.**
+\*Always initiate a conversation about data security and data storage with the Project Director before beginning work on projects that involve human subjects research, and obtain an email acknowledgement from the PD on the proposed plan (and update them if that data storage plan changes during the project).  **Keep the email stream for future reference.*
