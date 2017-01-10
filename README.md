@@ -2,6 +2,7 @@
 
 This is our repository for how we do data analysis and create software.
 
+* [Data Security: Best Practices](best_practices-data_security_guidelines.md)
 * [Version Control: Technical Operating Procedures](top-version_control.md)
 * [Version Control: Best Practices](best_practices-version_control.md)
 
