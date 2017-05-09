@@ -27,3 +27,12 @@ and
 
 ### Official request instructions from  [14.5.1](http://staffnet.rti.org/policy/PAP2/document/index.cfm?fuseaction=detail&PID=2239)
 To request approval of a particular cloud-based service, the staff member making the request must complete a Cloud Provider Intake Form via [My Service Portal](https://rtiservicedesk.service-now.com/nav_to.do?uri=com.glideapp.servicecatalog_cat_item_view.do?sysparm_id=3f1dd0320a0a0b99000a53f7604a2ef9).  The requestor must complete all fields on the Intake Form, and the requestor is encouraged to discuss the request with his or her supervisor or another member of management prior to submitting the Intake Form. Please take note that in some instances, management approval is required prior to submission, as indicated on the Intake Form. For staff in RTI Health Solutions, in addition to submitting the Intake Form, the requestor must also contact the RTI-HS Office of Quality Assurance to start the RTI Health Solutions qualification process.
+
+# Using Cloud Services
+
+1. Data management plan
+  - No business or personal data on cloud services
+1. User management plan
+  - How do we add and remove users?
+  - Who is responsible when an employee leaves?
+  - Checklist to be followed
